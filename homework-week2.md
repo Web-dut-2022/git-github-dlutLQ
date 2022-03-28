@@ -1,0 +1,1 @@
+Through this course, I learned some things like fork, pull, create libraries, etc. on github. In the first week of assignments, I got a certain idea of HTML. Hopefully, I can learn more about the operation of github from this course, so as to better master this tool.
